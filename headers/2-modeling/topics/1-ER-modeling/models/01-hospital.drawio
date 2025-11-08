@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="HDhrJQV3Bfo4U6fLU8m5">
+    <mxGraphModel dx="2018" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=wire;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-1" target="Aue_aZquBfDrQXvN0hxS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-1" target="Aue_aZquBfDrQXvN0hxS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-1" target="Aue_aZquBfDrQXvN0hxS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-1" value="Врач" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-2" target="Aue_aZquBfDrQXvN0hxS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-2" value="ФИО" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-3" value="Адрес" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-5" target="Aue_aZquBfDrQXvN0hxS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-5" value="паспортные данные" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-6" value="дата рождения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="100" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-7" target="Aue_aZquBfDrQXvN0hxS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-7" value="специальность" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-8" value="стаж" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-19" target="Aue_aZquBfDrQXvN0hxS-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-19" value="пациент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-20" target="Aue_aZquBfDrQXvN0hxS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-20" value="ФИО" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-23" target="Aue_aZquBfDrQXvN0hxS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-23" value="дата рождения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-25" target="Aue_aZquBfDrQXvN0hxS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-25" value="Полис" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-27" target="Aue_aZquBfDrQXvN0hxS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-27" value="Дата поступления" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-29" value="дата выписки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-32" value="Диагноз" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.361;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-32" target="Aue_aZquBfDrQXvN0hxS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-34" target="Aue_aZquBfDrQXvN0hxS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-34" value="Отделение" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-36" target="Aue_aZquBfDrQXvN0hxS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-36" value="Палата" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-38" target="Aue_aZquBfDrQXvN0hxS-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-38" value="Лечащий врач" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-41" target="Aue_aZquBfDrQXvN0hxS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Helvetica;horizontal=0;" edge="1" parent="1" source="Aue_aZquBfDrQXvN0hxS-41" target="Aue_aZquBfDrQXvN0hxS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-44" value="0...N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Aue_aZquBfDrQXvN0hxS-43">
+          <mxGeometry x="0.2718" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aue_aZquBfDrQXvN0hxS-41" value="Лечит" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="140" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
