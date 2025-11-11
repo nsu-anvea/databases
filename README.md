@@ -1,1 +1,3 @@
-# Databases (Базы данных)
+# Databases
+> Made by Andrew Veretennikov (anveretal)
+
