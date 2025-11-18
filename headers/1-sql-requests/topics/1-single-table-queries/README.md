@@ -1,5 +1,6 @@
-## Tasks
+# Single Table Queries
 
+## Tasks
 Знакомство с SQL предполагается в виде набора интерактивных упражнений, выполняемых в песочнице [https://www.db-fiddle.com/](https://www.db-fiddle.com/).
 
 1. Выбрать все адреса в базе, соответствующие городу "Tokyo"  
