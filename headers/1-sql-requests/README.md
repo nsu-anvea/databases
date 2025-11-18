@@ -6,41 +6,6 @@
 
 Запросы охватывают следующие темы:
 
-```
-1-sql-requests/
-├── 1-single-table-queries/
-│   ├── queries/
-│   │   ├── 1.sql
-│   │   ├── 2.sql
-│   │   ├── ...
-│   │   └── summary.sql
-│   └── Tasks.pdf (или Tasks.md)
-│
-├── 2-internal-connection-of-tables/
-│   ├── queries/
-│   │   ├── 1.sql
-│   │   ├── 2.sql
-│   │   ├── ...
-│   │   └── summary.sql
-│   └── Tasks.pdf (или Tasks.md)
-│
-├── 3-table-connection-operations/
-│   ├── queries/
-│   │   ├── 1.sql
-│   │   ├── 2.sql
-│   │   ├── ...
-│   │   └── summary.sql
-│   └── Tasks.pdf (или Tasks.md)
-│
-└── 4-generalized-tabular-expressions-and-composite-queries/
-    ├── queries/
-    │   ├── 1.sql
-    │   ├── 2.sql
-    │   ├── ...
-    │   └── summary.sql
-    └── Tasks.pdf (или Tasks.md)
-```
-
 ### 1. Однотабличные запросы (1-single-table-queries)
 - Базовые SELECT запросы
 - Фильтрация и сортировка
