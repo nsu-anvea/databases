@@ -1,3 +1,5 @@
+# Internal Connection of Tables
+
 ## Tasks
 
 1. Определить суммарную зарплату работников из Великобритании (страна с названием "United Kingdom").   
